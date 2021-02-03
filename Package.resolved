@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kwift",
+        "repositoryURL": "https://github.com/kojirou1994/Kwift.git",
+        "state": {
+          "branch": null,
+          "revision": "370e9821326c3c8985b644e78dac2f61a683e0bd",
+          "version": "0.8.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
